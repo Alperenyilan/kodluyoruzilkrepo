@@ -2,7 +2,8 @@
 
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
-![github](figures/github.png)
+![ilkrepopng](https://user-images.githubusercontent.com/49797242/175834566-78713490-5c02-4103-aa78-273ad30539d1.png)
+
 
 ## Installation
 
